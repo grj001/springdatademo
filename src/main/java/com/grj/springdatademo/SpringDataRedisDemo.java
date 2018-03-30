@@ -1,16 +1,12 @@
 package com.grj.springdatademo;
 
 import org.springframework.beans.BeansException;
-import org.springframework.beans.factory.BeanFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.dao.DataAccessException;
-import org.springframework.data.redis.connection.RedisConnection;
-import org.springframework.data.redis.core.RedisCallback;
 import org.springframework.data.redis.core.RedisTemplate;
 
 
 /**
- * SpringData ÕûºÏ Redis
+ * SpringData relevance Redis
  *
  */
 public class SpringDataRedisDemo {
